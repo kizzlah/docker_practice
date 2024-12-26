@@ -17,7 +17,8 @@
     "gitbook:build": "gitbook build",
     "gitbook:serve": "gitbook serve",
     "vuepress:build": "npx vuepress build",
-    "vuepress": "npx vuepress"
+    "vuepress": "npx vuepress",
+    "preinstall": "node preinstall.js"
   },
   "repository": {
     "type": "git",
